@@ -5,4 +5,4 @@ Adds a menu at Premise → Connection to test Premise and MailChimp server conne
 
 Helps to discover possible firewall issues that prevent a WordPress site connecting to API servers.
 
-Issue and to-dos at https://github.com/nickcernis/premise-debug/issues/.
+Issues and to-dos at https://github.com/nickcernis/premise-debug/issues/.
